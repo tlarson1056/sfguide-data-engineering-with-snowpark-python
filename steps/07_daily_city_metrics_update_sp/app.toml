@@ -1,4 +1,4 @@
-snowsql_config_path = "~/.snowsql/config"
+snowsql_config_path = "/Users/taylor.larson/snowflake/repos/sfguide-data-engineering-with-snowpark-python/.snowsql/config"
 snowsql_connection_name = "dev"
 
 [default]
