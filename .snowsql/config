@@ -1,0 +1,7 @@
+[connections.dev]
+accountname = lofoymr-fc93758
+username = tlarson
+password = Snowflake123
+rolename = HOL_ROLE
+warehousename = HOL_WH
+dbname = HOL_DB
